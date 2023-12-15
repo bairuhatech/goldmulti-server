@@ -1,0 +1,11 @@
+{
+  "development": {
+    "dialect": "postgres",
+    "host": "46.28.44.14",
+    "port": 5432,
+    "username": "bairuhapgsqluser",
+    "password": "BAiruhamysqluser123_",
+    "database": "next-me",
+    "logging": false
+  }
+}
